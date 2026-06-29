@@ -1,0 +1,34 @@
+[
+  {
+    "username": "lopiot",
+    "text": "мывав",
+    "time": "23:05",
+    "isPrivate": false
+  },
+  {
+    "username": "lopiot",
+    "text": "ыввмввмывмымвыввмымвывмывм",
+    "time": "23:05",
+    "isPrivate": false
+  },
+  {
+    "username": "lopiot2",
+    "text": "wdwdwd",
+    "time": "23:07",
+    "isPrivate": false
+  },
+  {
+    "from": "lopiot",
+    "to": "lopiot2",
+    "username": "lopiot",
+    "text": "привет",
+    "time": "23:13"
+  },
+  {
+    "from": "lopiot2",
+    "to": "lopiot",
+    "username": "lopiot2",
+    "text": "Паосрсочоаов",
+    "time": "23:57"
+  }
+]
